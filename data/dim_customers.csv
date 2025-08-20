@@ -1,0 +1,6 @@
+customer_id,customer_name,email,city
+101,Alice Dubois,alice.d@email.com,Paris
+102,Bob Martin,bob.m@email.com,Lyon
+103,Charlie Girard,,Paris
+104,Diana Morel,diana.m@email.com,Marseille
+105,Eva Petit,eva.p@email.com,Lyon
