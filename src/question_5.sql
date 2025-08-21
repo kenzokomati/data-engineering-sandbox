@@ -1,0 +1,2 @@
+-- Advanced Analysis (Window Functions): To optimize our inventory, we need to know our top-performing products.
+-- Can you identify the top 2 products by total sales revenue within each product category?
